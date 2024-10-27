@@ -10,9 +10,9 @@ A web application with beautiful image slider.
 
 ![Capture](https://github.com/user-attachments/assets/20f9c66d-b72a-4be0-9051-d841b4367afd)
 
-📄 Usage
+## 📄 Usage
 Describe how to use your project. Example:
 
-Navigate through different sections using the Swiper slider.
-Explore the responsive design powered by Tailwind CSS.
-Use the project as a template or extend it with your own features!
+- **Navigate through different sections using the Swiper slider.
+- **Explore the responsive design powered by Tailwind CSS.
+- **Use the project as a template or extend it with your own features!
