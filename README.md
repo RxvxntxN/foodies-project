@@ -13,6 +13,6 @@ A web application with beautiful image slider.
 ## 📄 Usage
 Describe how to use your project. Example:
 
-- **Navigate through different sections using the Swiper slider.
-- **Explore the responsive design powered by Tailwind CSS.
-- **Use the project as a template or extend it with your own features!
+- Navigate through different sections using the Swiper slider.
+- Explore the responsive design powered by Tailwind CSS.
+- Use the project as a template or extend it with your own features!
