@@ -1,6 +1,6 @@
 # foodies-project
 
-A web application with beautiful image slider.
+A basic web application with beautiful image slider.
 
 ## ⚙️ Tools and Technologies Used
 - **Next.js**: React-based framework for server-side rendering.
